@@ -1,18 +1,5 @@
 defmodule Honcho do
   @moduledoc """
-  Documentation for `Honcho`.
+  Honcho is the ChatOps bot for Discord and Kubernetes.
   """
-
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> Honcho.hello()
-      :world
-
-  """
-  def hello do
-    :world
-  end
 end
